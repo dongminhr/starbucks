@@ -1,0 +1,7 @@
+user.name=ppppp132
+user.email=ehdals4542@naver.com
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+core.autocrlf=true
